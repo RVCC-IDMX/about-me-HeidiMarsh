@@ -1,0 +1,40 @@
+body {
+    font-family:"Edu SA Beginner";
+    background-color:#D6D0C1;
+    color:#315B8F;
+}
+
+
+
+h1,h2,h,h4,h5,h6 {
+    font-family: "Patrick Hand";
+    font-size: 110pt;
+    text-align: center;
+    
+}
+
+    
+
+
+header {
+        text-align: center;
+        border: 15px solid #6E708A;
+        background-color:#B6C4D6;
+
+}
+
+#hero {
+    text-align: center;
+    font-size: 55pt;
+    border: 15px solid #6E708A;
+}
+
+
+
+#bio {
+    background-color: ;
+    text-align: center;
+    font-size: 25pt;
+    background-color:#B6C4D6;
+    border: 15px solid #6E708A;
+}
