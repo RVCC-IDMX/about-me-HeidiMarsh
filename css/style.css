@@ -85,16 +85,61 @@ header {
     border: 25px solid #6E708A;
     border-radius: 2rem;
     border-style: double;
-    font-size: 150px;
+    font-size: 85px;
+    background-color:#B6C4D6;
 
 }
 
 #gallery img {
-max-width:100%;
+max-width:25%;
 border-radius: 2rem;
 
 }
 
 #gallery figure {
     text-align:center;
+
 }
+
+/* Literature */
+
+#lit {
+    font-size: 75px;
+    border: 25px solid #6E708A;
+    border-radius: 2rem;
+    border-style: double;
+    margin-bottom: 2rem;
+}
+
+#lit div {
+
+    padding:5rem;
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
+
+
+
+#lit div p:first-line {
+
+    font-weight: 900;
+    font-variant-caps: small-caps;
+    font-family: "Patrick Hand"
+    font-size:90px;
+    
+    
+    
+}
+
+#lit div p:first-letter {
+
+    font-size:170px;
+    font-family: "Patrick Hand"
+    
+    
+}
+
+
+
+
