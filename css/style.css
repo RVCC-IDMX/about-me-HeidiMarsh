@@ -18,15 +18,24 @@ h1,h2,h,h4,h5,h6 {
 
 header {
         text-align: center;
-        border: 15px solid #6E708A;
+        border: 25px solid #6E708A;
         background-color:#B6C4D6;
+        border-radius: 2rem;
+        border-style:double;
+    
 
 }
 
 #hero {
     text-align: center;
-    font-size: 55pt;
-    border: 15px solid #6E708A;
+    font-size: 70pt;
+    border: 25px solid #6E708A;
+    border-radius: 2rem;
+    border-style: double;
+    font-weight: 900;
+   
+    
+
 }
 
 
@@ -34,7 +43,35 @@ header {
 #bio {
     background-color: ;
     text-align: center;
-    font-size: 25pt;
+    font-size: 70pt;
     background-color:#B6C4D6;
-    border: 15px solid #6E708A;
+    border: 25px solid #6E708A;
+    border-radius: 2rem;
+    border-style: double;
+    
 }
+
+  
+
+#hobbies {
+    font-size: 70pt;
+    background-color:#D6D0C1;
+    border: 25px solid #6E708A;
+    border-radius: 2rem;
+    border-style: double;
+    
+}
+
+#hobbies ul li:nth-child(even) {
+   color: #6E708A;
+    font-weight:700;
+    
+}
+#hobbies ul li:nth-child(odd) {
+
+    font-weight:900;
+    font-variant-caps: small-caps;
+    
+}
+
+
