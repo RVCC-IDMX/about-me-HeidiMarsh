@@ -26,6 +26,8 @@ header {
 
 }
 
+/* Hero Section */
+
 #hero {
     text-align: center;
     font-size: 70pt;
@@ -39,6 +41,7 @@ header {
 }
 
 
+/* Bio Section */
 
 #bio {
     background-color: ;
@@ -51,7 +54,7 @@ header {
     
 }
 
-  
+  /* Hobbies Section */
 
 #hobbies {
     font-size: 70pt;
@@ -59,7 +62,7 @@ header {
     border: 25px solid #6E708A;
     border-radius: 2rem;
     border-style: double;
-    
+
 }
 
 #hobbies ul li:nth-child(even) {
@@ -75,3 +78,23 @@ header {
 }
 
 
+/* Gallery Section */
+
+#gallery {
+
+    border: 25px solid #6E708A;
+    border-radius: 2rem;
+    border-style: double;
+    font-size: 150px;
+
+}
+
+#gallery img {
+max-width:100%;
+border-radius: 2rem;
+
+}
+
+#gallery figure {
+    text-align:center;
+}
