@@ -6,14 +6,18 @@ body {
 
 
 
-h1,h2,h,h4,h5,h6 {
+
+h1,h2,h3,h4,h5,h6 {
     font-family: "Patrick Hand";
     font-size: 110pt;
     text-align: center;
     
 }
 
+h2{
+    margin: .3rem;
     
+     }
 
 
 header {
@@ -62,6 +66,8 @@ header {
     border: 25px solid #6E708A;
     border-radius: 2rem;
     border-style: double;
+    
+    
 
 }
 
@@ -76,6 +82,12 @@ header {
     font-variant-caps: small-caps;
     
 }
+
+#hobbies {
+display: flex;
+flex-direction: column;
+align-items: center; }
+
 
 
 /* Gallery Section */
@@ -143,3 +155,18 @@ border-radius: 2rem;
 
 
 
+@media screen and (min-width: 60 em;) {
+    figure {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+
+    }
+
+    figcaption {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-left: left;
+    }
+}
