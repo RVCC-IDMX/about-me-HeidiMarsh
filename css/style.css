@@ -152,6 +152,62 @@ border-radius: 2rem;
     
 }
 
+/* Video */
+
+#myVideo {
+
+    padding: 0;
+    border: none;
+    width: 700px;
+    height: 700px;
+    
+}
+
+
+.wrapper {
+
+    margin 0 auto;
+    width: 1000px;
+}
+.videowrapper {
+
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0px;
+
+}
+
+.videowrapper iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+
+}
+#shortVideo {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Tablet Size */
 
@@ -187,6 +243,20 @@ border-radius: 2rem;
    
             }
 
+    #shortVideo {
+        max-width: 100%;
+        columns: 45rem;
+    } 
+
+    figcaption {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 3rem;
+        margin-left: 1rem
+
+    }
+
 
 /* Large Screen */
 
@@ -208,6 +278,21 @@ border-radius: 2rem;
     display: block;
   }
   
+  #shortVideo {
+    max-width: 100%;
+    columns: 45rem;
+} 
+
+figcaption {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    margin-left: 1rem
+
+}
+
+
 
   }
 
