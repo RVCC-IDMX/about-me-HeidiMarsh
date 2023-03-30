@@ -198,7 +198,12 @@ border-radius: 2rem;
 
 
 
+/* Contact Form */
 
+#formElements{
+
+    display:grid;
+}
 
 
 
