@@ -203,11 +203,66 @@ border-radius: 2rem;
 #formElements{
 
     display:grid;
+    row-gap: .5em;
+
+}
+
+#contact {
+
+    padding: 1rem;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+fieldset {
+    border: 5px solid;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 2rem;
 }
 
 
+legend {
+    background-color: #315B8F;
+    color: white;
+    padding: .5em;
+    border-radius: 2em;
+    font-size:20px;
 
+}
+#contact input, #contact textarea, #contact select, #contact button {
 
+    padding: .5em;
+    font-size: 1rem;
+    border-radius: 2em;
+
+}
+
+#contact ul {
+    list-style: none;
+    padding: 0px;
+    
+
+}
+
+#contact li {
+     margin: 1rem;
+
+}
+
+#contact button {
+
+    background-color: #315B8F;
+    border: 1px solid #315B8F;
+    max-width: 400px;
+    width: 50%;
+    justify-self: center;
+    color: white;
+    font-size: 25px;
+    font-family: "Patrick Hand";
+
+    
+}
 
 
 
