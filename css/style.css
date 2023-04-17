@@ -9,7 +9,7 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: "Patrick Hand";
-    font-size: 110pt;
+    font-size: 70pt;
     text-align: center;
     
 }
@@ -21,11 +21,18 @@ h2{
 
 
 header {
-        text-align: center;
+        text-align:center;
         border: 25px solid #6E708A;
         background-color:#B6C4D6;
         border-radius: 2rem;
         border-style:double;
+        position: relative;
+        /* margin-right: 99%;
+        margin-left: 15%; */
+        margin-right: 99%;
+        margin-left: 6.5%;
+        width: 100%;
+       
     
 
 }
@@ -34,11 +41,27 @@ header {
 
 #hero {
     text-align: center;
-    font-size: 70pt;
+    font-size: 40pt;
     border: 25px solid #6E708A;
     border-radius: 2rem;
     border-style: double;
     font-weight: 900;
+    position: relative;
+    /* margin-right: 99%;
+    margin-left: 15%; */
+    margin-right: 99%;
+    margin-left: 6.5%;
+    width: 100%;
+
+ .pic {
+    position: relative;
+    margin-right: 10%;
+    margin-left: 1%;
+    width: 100%;
+    
+}
+    
+  
    
     
 
@@ -50,18 +73,26 @@ header {
 #bio {
     background-color: ;
     text-align: center;
-    font-size: 70pt;
+    font-size: 40pt;
     background-color:#B6C4D6;
     border: 25px solid #6E708A;
     border-radius: 2rem;
     border-style: double;
+    position: relative;
+    /* margin-right: 99%;
+    margin-left: 15%; */
+    margin-right: 99%;
+    margin-left: 6.5%;
+    width: 100%;
     
 }
 
   /* Hobbies Section */
 
 #hobbies {
-    font-size: 70pt;
+    font-size: 40pt;
+    display: flex;
+    flex-direction: column;
     background-color:#D6D0C1;
     border: 25px solid #6E708A;
     border-radius: 2rem;
@@ -86,7 +117,13 @@ header {
 #hobbies {
 display: flex;
 flex-direction: column;
-align-items: center; }
+align-items: center;
+position: relative;
+/* margin-right: 99%;
+margin-left: 15%; */
+margin-right: 99%;
+    margin-left: 6.5%;
+width: 100%; }
 
 
 
@@ -97,8 +134,14 @@ align-items: center; }
     border: 25px solid #6E708A;
     border-radius: 2rem;
     border-style: double;
-    font-size: 85px;
+    font-size: 55px;
     background-color:#B6C4D6;
+    position: relative;
+    /* margin-right: 99%;
+    margin-left: 15%; */
+    margin-right: 99%;
+    margin-left: 6.5%;
+    width: 100%;
 
 }
 
@@ -116,11 +159,17 @@ border-radius: 2rem;
 /* Literature */
 
 #lit {
-    font-size: 75px;
+    font-size: 45px;
     border: 25px solid #6E708A;
     border-radius: 2rem;
     border-style: double;
     margin-bottom: 2rem;
+    position: relative;
+    /* margin-right: 99%;
+    margin-left: 15%; */
+    margin-right: 99%;
+    margin-left: 6.5%;
+    width: 100%;
 }
 
 #lit div {
@@ -137,7 +186,7 @@ border-radius: 2rem;
 
     font-weight: 900;
     font-variant-caps: small-caps;
-    font-family: "Patrick Hand"
+    font-family: "Patrick Hand";
     font-size:90px;
     
     
@@ -147,7 +196,7 @@ border-radius: 2rem;
 #lit div p:first-child:first-letter {
 
     font-size:170px;
-    font-family: "Patrick Hand"
+    font-family: "Patrick Hand";
     
     
 }
@@ -158,8 +207,8 @@ border-radius: 2rem;
 
     padding: 0;
     border: none;
-    width: 700px;
-    height: 700px;
+    width: 200px;
+    height: 200px;
     
 }
 
@@ -193,6 +242,8 @@ border-radius: 2rem;
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 45px;
+    text-align: center;
 }
 
 
@@ -212,6 +263,12 @@ border-radius: 2rem;
     padding: 1rem;
     max-width: 600px;
     margin: 2rem auto;
+    position: relative;
+    /* margin-right: 99%;
+    margin-left: 15%; */
+    margin-right: 99%;
+    margin-left: 6.5%;
+    width: 100%;
 }
 
 fieldset {
@@ -300,7 +357,7 @@ legend {
             columns: 45rem; }
 
    
-            }
+            
 
     #shortVideo {
         max-width: 100%;
@@ -313,6 +370,25 @@ legend {
         align-items: center;
         font-size: 3rem;
         margin-left: 1rem
+
+    }
+
+    .pic { 
+        position: relative;
+        margin-right: 20%;
+        margin-left: 15%;
+        max-width: 50%;
+        align-items: center;
+    }
+
+    header {
+        text-align: center;
+        position: relative;
+        margin-right: 50%;
+        margin-left: 200%;
+    }
+    
+        
 
     }
 
@@ -352,7 +428,8 @@ figcaption {
 }
 
 
-
+ #contact {
+   margin: 25rem auto;
   }
 
 
