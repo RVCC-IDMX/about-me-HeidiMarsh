@@ -381,12 +381,7 @@ legend {
         align-items: center;
     }
 
-    header {
-        text-align: center;
-        position: relative;
-        margin-right: 50%;
-        margin-left: 200%;
-    }
+    
     
         
 
@@ -431,6 +426,7 @@ figcaption {
  #contact {
    margin: 25rem auto;
   }
+
 
 
 
