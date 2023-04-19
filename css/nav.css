@@ -92,7 +92,7 @@ html{
 
     }
 
-                    .nav-toggle: checked ~ .navbar-links {
+                    /* .nav-toggle: checked ~ .navbar-links {
                         display: block;
                                         }
 
@@ -108,8 +108,13 @@ html{
                         display: flex;
                         align-items: center;
                         align-items: top;
-                    }
+                    } */
 
+/* Hamburger Menu */
+.nav-checkbox:checked ~ .navbar-links li {
+    display: block;
+
+}
 
 /* 
 media query for non-mobile nav bar
@@ -141,5 +146,4 @@ such that no text wraps
     }
 }
 
-/* Hamburger Menu */
 
