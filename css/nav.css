@@ -116,6 +116,47 @@ html{
 
 }
 
+.nav-checkbox {
+    display: none;
+}
+
+.nav-checkbox-label {
+   position: absolute;
+   top: 1;
+   left: 0; 
+   margin-left: 1em;
+   height: 100%;
+   
+  
+}
+
+.nav-checkbox-label span,
+.nav-checkbox-label span::before,
+.nav-checkbox-label span::after {
+    display: block;
+    background:#315B8F;
+    height: 5px;
+    width: 2em;
+    border-radius: 2px;
+    position: relative;
+}
+
+.nav-checkbox-label span::before,
+.nav-checkbox-label span::after {
+
+    content: '';
+    position: absolute;
+}
+
+.nav-checkbox-label span::before {
+    bottom: 10px;
+}
+
+.nav-checkbox-label span::after {
+
+    top: 10px;
+}
+
 /* 
 media query for non-mobile nav bar
 min-width set to width of nav elements 
