@@ -1,7 +1,7 @@
 body {
     font-family:"Edu SA Beginner";
-    background-color:#D6D0C1;
-    color:#315B8F;
+    background-color:#d6d0c1;
+    color:#315b8f;
 }
 
 
@@ -22,8 +22,8 @@ h2{
 
 header {
         text-align:center;
-        border: 25px solid #6E708A;
-        background-color:#B6C4D6;
+        border: 25px solid #6e708a;
+        background-color:#b6c4d6;
         border-radius: 2rem;
         border-style:double;
         position: relative;
