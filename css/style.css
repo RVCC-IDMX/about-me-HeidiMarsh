@@ -331,9 +331,13 @@ legend {
     display: flex;
     align-items: center;
     margin-left: 150px;
-    
+    width: 200px;
+    height: 300px;
+   
 }
-    
+
+
+
 
 
 /* Tablet Size */
