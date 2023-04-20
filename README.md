@@ -3,6 +3,7 @@
 ## My name is Heidi Marshall
 
 ## Project Description
+
     This website is meant to act as a portfolio of sorts, highlighting my skills as a beginning web developer, as well as skills outside of web development. This project has taught me many different things in the realm of coding, and are as follows:
 -	Common commands and rules within code
 -	How GitHub and Netlify can make creating a webpage easier
