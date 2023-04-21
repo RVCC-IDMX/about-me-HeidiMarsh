@@ -4,7 +4,7 @@
 
 ### Netlify Status Badge
 
-        [![Netlify Status](https://api.netlify.com/api/v1/badges/05bb8f7f-3086-4ca4-8e4e-1c2881a89b7e/deploy-status)](https://app.netlify.com/sites/about-me-heidimarsh/deploys)
+        [![Netlify Status](https://api.netlify.com/api/v1/badges/05bb8f7f-3086-4ca4-8e4e-1c2881a89b7e/deploy-status?branch=dev)](https://app.netlify.com/sites/about-me-heidimarsh/deploys)
 
 # Project Description
 ### This website is meant to act as a portfolio of sorts, highlighting my skills as a beginning web developer, as well as skills outside of web development. This project has taught me many different things in the realm of coding, and are as follows:
@@ -36,14 +36,16 @@
 
 ### Citations
 
-    My avatar is from [Avataaars Generator - A free online avatar generator for anyone to make their beautiful personal avatar easily! (getavataaars.com)] (https://getavataaars.com/)
+#### My avatar is from
+     [Avataaars Generator - A free online avatar generator for anyone to make their beautiful personal avatar easily! (getavataaars.com)] (https://getavataaars.com/)
 
-    The fonts used are from [Browse Fonts - Google Fonts] (https://fonts.google.com/)
+#### The fonts used are from 
+    [Browse Fonts - Google Fonts] (https://fonts.google.com/)
     The fonts used are as follows:
-    `"Edu SA Beginner"` for the body of the page
-    `"Patrick Hand"` for the headings
+    `"Edu SA Beginner"` at Regular 400 for the body of the page
+    `"Patrick Hand"`at Regular 400 for the headings
 
-    The sources used for the blog article on scalable vector graphics are as follows:
+#### The sources used for the blog article on scalable vector graphics are as follows:
         -[A beginners guide to SVG | Part One: The Why, What, and How - YouTube] (https://www.youtube.com/watch?v=ZJSCl6XEdP8)
         -[What is an SVG File (And How Do You Use it)? - YouTube] (https://www.youtube.com/watch?v=ZUh021S6kpg)
         -[SVG Explained in 100 Seconds - YouTube] (https://www.youtube.com/watch?v=emFMHH2Bfvo)
