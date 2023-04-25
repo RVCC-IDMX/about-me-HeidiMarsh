@@ -9,7 +9,7 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: "Patrick Hand";
-    font-size: 70pt;
+    font-size: 55pt;
     text-align: center;
     
 }
@@ -206,6 +206,8 @@ border-radius: 2rem;
     
 }
 
+
+
 /* Video */
 
 #myVideo {
@@ -251,6 +253,36 @@ border-radius: 2rem;
     text-align: center;
 }
 
+
+/* Blog Article */
+
+#pngStar {
+    width: 100%;
+    border-radius: 2em;
+    border: solid #6E708A 5px;
+    display: flex;
+
+    
+}
+
+#svgStar {
+    width: 100%;
+    border: solid #6E708A 5px;
+    border-radius: 2em;
+    background-color: white;
+    display: flex;
+    margin-right: 0.9px;
+    
+    
+}
+
+#stardescriptPNG{
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom:25px;
+
+}
 
 
 
@@ -402,8 +434,6 @@ legend {
     }
 
     
-    
-        
 
     }
 
