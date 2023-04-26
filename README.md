@@ -45,7 +45,7 @@
     `"Patrick Hand"`at Regular 400 for the headings
 
 #### The colors used are from 
-        [Color wheel, a color palette generator | Adobe Color] (https://color.adobe.com/create/color-wheel)
+     [Color wheel, a color palette generator | Adobe Color] (https://color.adobe.com/create/color-wheel)
 
 #### The sources used for the blog article on scalable vector graphics are as follows:
         -[A beginners guide to SVG | Part One: The Why, What, and How - YouTube] (https://www.youtube.com/watch?v=ZJSCl6XEdP8)
