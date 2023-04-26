@@ -32,7 +32,7 @@
  One of the two background colors is: `#D6D0C1` or `rgb(214, 208, 193)` 
  The second that alternates with the previous is: `#B6C4D6` or `rgb(182, 196, 214)`
  The borders are `#6E708A` or `rgb(110, 112, 138)` 
- The text colors, hamburger menu, and contact form outlines are all`#315B8F`or `rgb(49, 91, 143)` 
+ The text colors, hamburger menu, and contact form outlines are all`#315B8F`or `rgb(49, 91, 143)`
 ### Citations
 
 #### My avatar is from
@@ -43,6 +43,9 @@
     The fonts used are as follows:
     `"Edu SA Beginner"` at Regular 400 for the body of the page
     `"Patrick Hand"`at Regular 400 for the headings
+
+#### The colors used are from 
+        [Color wheel, a color palette generator | Adobe Color] (https://color.adobe.com/create/color-wheel)
 
 #### The sources used for the blog article on scalable vector graphics are as follows:
         -[A beginners guide to SVG | Part One: The Why, What, and How - YouTube] (https://www.youtube.com/watch?v=ZJSCl6XEdP8)
