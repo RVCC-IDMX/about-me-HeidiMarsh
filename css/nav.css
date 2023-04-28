@@ -92,23 +92,7 @@ html{
 
     }
 
-                    /* .nav-toggle: checked ~ .navbar-links {
-                        display: block;
-                                        }
-
-                    .nav-toggle {
-                        display: none;
-                                        }
-                    .nav-toggle-label {
-                        position: absolute;
-                        top: 0;
-                        left: 0;
-                        margin-left: 1em;
-                        height: 100%;
-                        display: flex;
-                        align-items: center;
-                        align-items: top;
-                    } */
+    
 
 
 /* Hamburger Menu */
@@ -165,12 +149,6 @@ html{
         such that no text wraps 
         */
         @media screen and (min-width: 60rem) {
-
-            /* .navbar-links {
-            display: flex;
-            justify-content: space-between;
-
-            } */
 
         .navbar {
         flex-direction: row;
