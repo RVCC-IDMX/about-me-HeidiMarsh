@@ -33,6 +33,11 @@
  The second that alternates with the previous is: `#B6C4D6` or `rgb(182, 196, 214)`
  The borders are `#6E708A` or `rgb(110, 112, 138)` 
  The text colors, hamburger menu, and contact form outlines are all`#315B8F`or `rgb(49, 91, 143)`
+
+
+### NavBar
+
+The navbar on this site was created using HTML and CSS. The code for it can be found in my index.html document, as well as my nav.css document. The hamburger menu was also coded using the same languages and the code for it can also be found in the same documents. Following the instructions from this link, [Create a responsive navigation nav with no JS! - YouTube] (https://www.youtube.com/watch?v=8QKOaTYvYUA), I was able to create a simple menu that shows which links the user can reach on my page.
  
 ### Citations
 
