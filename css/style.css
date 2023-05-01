@@ -47,8 +47,6 @@ header {
     border-style: double;
     font-weight: 900;
     position: relative;
-    /* margin-right: 99%;
-    margin-left: 15%; */
     margin-right: 99%;
     margin-left: 6.5%;
     width: 100%;
@@ -61,8 +59,6 @@ header {
     
 }
     
-  
-   
     
 
 }
@@ -80,8 +76,6 @@ header {
     border-radius: 2rem;
     border-style: double;
     position: relative;
-    /* margin-right: 99%;
-    margin-left: 15%; */
     margin-right: 99%;
     margin-left: 6.5%;
     width: 100%;
@@ -215,7 +209,8 @@ border-radius: 2rem;
 
     padding: 0;
     border: none;
-    width: 200px;
+    border-radius: .1em;
+    width: 300px;
     height: 200px;
     
 }
@@ -313,6 +308,7 @@ border-radius: 2rem;
     margin-top:0px;
     margin-bottom: 0px;
 }
+
 /* Contact Form */
 
 #formElements{
@@ -473,7 +469,7 @@ legend {
         padding-bottom: 89px;
     }
 
-    }
+    
     #svgStar {
         max-width:100%;
         margin-top: 10px;
@@ -487,6 +483,11 @@ legend {
         padding-right: 1px;
         padding-top: 20px;
         padding-bottom: 89px;
+    }
+
+    #myVideo {
+        width:900px;
+        height: 500px;
     }
     }
 
