@@ -466,6 +466,12 @@ legend {
     #stardescriptPNG {
 
         margin: 0%;
+        font-size: 50px;
+        padding-left: 1px;
+        padding-right: 1px;
+        padding-top: 20px;
+        padding-bottom: 89px;
+    }
 
     }
     #svgStar {
@@ -476,6 +482,11 @@ legend {
 
     #stardescriptSVG {
         margin: 0%;
+        font-size: 50px;
+        padding-left: 1px;
+        padding-right: 1px;
+        padding-top: 20px;
+        padding-bottom: 89px;
     }
     }
 
