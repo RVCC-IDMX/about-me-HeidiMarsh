@@ -25,13 +25,7 @@
 -	How to troubleshoot problems that arise
 -	Why mobile first is an easier way to create a responsive webpage
 
-### Color Scheme
-
-`#D6D0C1` or `rgb(214, 208, 193)` 
-`#B6C4D6` or `rgb(182, 196, 214)`
-`#6E708A` or `rgb(110, 112, 138)` 
-`#315B8F`or `rgb(49, 91, 143)`
-
+`#D6D0C1` 
 
 ### NavBar
 
