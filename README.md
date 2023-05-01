@@ -41,8 +41,7 @@ The navbar on this site was created using HTML and CSS. The code for it can be f
 
 #### My bio picture is from
      [Beautiful Free Images & Pictures | Unsplash] (https://unsplash.com/)
-
-#### Photo by John Mark Arnold on Unsplash 
+     Attribute:Photo by John Mark Arnold on Unsplash 
 
 #### The fonts used are from 
     [Browse Fonts - Google Fonts] (https://fonts.google.com/)
