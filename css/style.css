@@ -258,41 +258,61 @@ border-radius: 2rem;
 /* Blog Article */
 
 #pngStar {
-    width: 100%;
+    width: 200%;
     border-radius: 2em;
     border: solid #6E708A 5px;
     display: flex;
+    align-items: center;
+    margin-left: -70px;
+   
 
     
 }
 
 #svgStar {
-    width: 100%;
+    width: 200%;
     border: solid #6E708A 5px;
     border-radius: 2em;
     background-color: white;
     display: flex;
-    margin-right: 0.9px;
+    margin-left: -70px;
+    align-items: center;
     
     
 }
 
-#stardescriptPNG{
-    margin-right: 25px;
-    margin-left: 25px;
-    margin-top: 25px;
-    margin-bottom:25px;
+#stardescriptPNG {
+    margin-right: -55px;
+    margin-left: -55px;
+    margin-top: -55px;
+    margin-bottom:-15px;
+    font-size: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
 
 }
 
-#stardescriptSVG{
-    margin-right: 25px;
-    margin-left: 25px;
-    margin-top: 25px;
-    margin-bottom:25px;
+#stardescriptSVG {
+    margin-right: -55px;
+    margin-left: -55px;
+    margin-top: -55px;
+    margin-bottom:-55px;
+    font-size: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
 
 }
 
+#stardescriptSVG ficaption{
+    margin-left: 0.5px;
+    margin-right: 0.5px;
+    margin-top:0px;
+    margin-bottom: 0px;
+}
 /* Contact Form */
 
 #formElements{
@@ -438,7 +458,25 @@ legend {
         
     }
 
+    #pngStar {
+        max-width:100%;
+        margin-bottom: 10px;
+    }
 
+    #stardescriptPNG {
+
+        margin: 0%;
+
+    }
+    #svgStar {
+        max-width:100%;
+        margin-top: 10px;
+
+    }
+
+    #stardescriptSVG {
+        margin: 0%;
+    }
     }
 
 
@@ -486,5 +524,5 @@ figcaption {
     
 }
 
- 
+
 }
