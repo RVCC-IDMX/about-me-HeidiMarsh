@@ -285,7 +285,13 @@ border-radius: 2rem;
 
 }
 
+#stardescriptSVG{
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom:25px;
 
+}
 
 /* Contact Form */
 
