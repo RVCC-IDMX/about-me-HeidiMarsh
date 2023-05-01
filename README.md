@@ -27,10 +27,10 @@
 
 ### Color Scheme
 
- One of the two background colors is: `#D6D0C1` or `rgb(214, 208, 193)` 
- The second that alternates with the previous is: `#B6C4D6` or `rgb(182, 196, 214)`
- The borders are `#6E708A` or `rgb(110, 112, 138)` 
- The text colors, hamburger menu, and contact form outlines are all`#315B8F`or `rgb(49, 91, 143)`
+`#D6D0C1` or `rgb(214, 208, 193)` 
+`#B6C4D6` or `rgb(182, 196, 214)`
+`#6E708A` or `rgb(110, 112, 138)` 
+`#315B8F`or `rgb(49, 91, 143)`
 
 
 ### NavBar
