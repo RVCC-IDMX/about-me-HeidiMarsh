@@ -16,7 +16,7 @@ html{
 
 /* add some padding back to rest of page */
     main{
-        padding: 2vw;
+        padding: 1vw;
 
     }
 
@@ -193,5 +193,7 @@ html{
             margin-left: 67px;
             
         }
+
+        
     }
 
