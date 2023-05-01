@@ -114,8 +114,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 position: relative;
-/* margin-right: 99%;
-margin-left: 15%; */
+
 margin-right: 99%;
     margin-left: 6.5%;
 width: 100%; }
@@ -137,8 +136,6 @@ width: 100%; }
     font-size: 55px;
     background-color:#B6C4D6;
     position: relative;
-    /* margin-right: 99%;
-    margin-left: 15%; */
     margin-right: 99%;
     margin-left: 6.5%;
     width: 100%;
@@ -536,5 +533,9 @@ figcaption {
     
 }
 
+
+
+#gallery img {
+    max-width: 25%;
 
 }
