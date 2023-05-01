@@ -2,9 +2,7 @@
 
 ## My name is Heidi Marshall
 
-### Netlify Status Badge
-
-       [![Netlify Status](https://api.netlify.com/api/v1/badges/05bb8f7f-3086-4ca4-8e4e-1c2881a89b7e/deploy-status?branch=main)](https://app.netlify.com/sites/about-me-heidimarsh/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05bb8f7f-3086-4ca4-8e4e-1c2881a89b7e/deploy-status?branch=main)](https://app.netlify.com/sites/about-me-heidimarsh/deploys)
 
 # Project Description
 ### This website is meant to act as a portfolio of sorts, highlighting my skills as a beginning web developer, as well as skills outside of web development. This project has taught me many different things in the realm of coding, and are as follows:
