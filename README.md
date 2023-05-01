@@ -25,7 +25,7 @@
 -	How to troubleshoot problems that arise
 -	Why mobile first is an easier way to create a responsive webpage
 
-`#d6d0c1`
+`#D6D0C1` 
 
 ### NavBar
 
